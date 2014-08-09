@@ -1,0 +1,12 @@
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\ExtractIf.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\ExtractIf.pdb
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\Microsoft.CodeAnalysis.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\System.Collections.Immutable.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\System.Reflection.Metadata.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\ExtractIf\1.0.0\\extension.vsixmanifest

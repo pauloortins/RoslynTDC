@@ -1,0 +1,31 @@
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\MakeConstCS.dll
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\MakeConstCS.pdb
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\MakeConstCS.vsix
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\extension.vsixmanifest
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\System.Reflection.Metadata.dll
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\System.Reflection.Metadata.xml
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.Features.xml
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\obj\Debug\MakeConstCS.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\obj\Debug\MakeConstCS.dll
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\obj\Debug\MakeConstCS.pdb
+C:\Users\Paulo Ortins\Desktop\Roslyn SDK Preview for Visual Studio 14 CTP1\Samples\CSharp\MakeConst\obj\Debug\extension.vsixmanifest
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\Binaries\Debug\MakeConstCS.dll
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\Binaries\Debug\MakeConstCS.pdb
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\Binaries\Debug\MakeConstCS.vsix
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\Binaries\Debug\extension.vsixmanifest
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\Binaries\Debug\System.Reflection.Metadata.xml
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\Binaries\Debug\Microsoft.CodeAnalysis.Features.xml
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\obj\Debug\MakeConstCS.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\obj\Debug\MakeConstCS.dll
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\obj\Debug\MakeConstCS.pdb
+C:\Users\Paulo Ortins\Documents\Visual Studio 14\Projects\TDCRoslyn\MakeConst\obj\Debug\extension.vsixmanifest

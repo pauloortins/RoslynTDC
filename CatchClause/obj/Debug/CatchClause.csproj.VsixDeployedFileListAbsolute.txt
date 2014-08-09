@@ -1,0 +1,8 @@
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\CatchClause\1.0.0\\CatchClause.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\CatchClause\1.0.0\\CatchClause.pdb
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\CatchClause\1.0.0\\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\CatchClause\1.0.0\\Microsoft.CodeAnalysis.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\CatchClause\1.0.0\\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\CatchClause\1.0.0\\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\CatchClause\1.0.0\\System.Reflection.Metadata.dll
+C:\Users\Paulo Ortins\AppData\Local\Microsoft\VisualStudio\14.0Roslyn\Extensions\Microsoft\CatchClause\1.0.0\\extension.vsixmanifest
